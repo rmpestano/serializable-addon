@@ -1,0 +1,3 @@
+== serializable-addon
+
+Example of JBoss forge addon which makes all classes in current project serializable.
